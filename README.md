@@ -18,7 +18,15 @@
 
 ### Para iniciar o projeto
 
-``` go run cmd/server/server.go ```
+<details>
+<summary>Para iniciar o projeto</summary>
+
+> Terminal 
+```go
+ go run cmd/server/server.go 
+```
+</details>
+
 
 </div>
 
