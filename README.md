@@ -13,6 +13,17 @@
 
 ### Passos
 
+[Instale o Go em seu equipmento](https://go.dev/doc/install)
+
+<details>
+<summary>Verifique a instalação</summary>
+
+> Terminal 
+```go
+ go --version
+```
+</details>
+
 <details>
 <summary>Instalar dependências</summary>
 
