@@ -11,12 +11,16 @@
 
 <div align="center">
 
-### Para instalar as dependências do projeto
+### Passos
 
-``` go mod tidy ```
+<details>
+<summary>Instalar dependências</summary>
 
-
-### Para iniciar o projeto
+> Terminal 
+```go
+ go mod tidy
+```
+</details>
 
 <details>
 <summary>Para iniciar o projeto</summary>
